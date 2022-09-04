@@ -1,5 +1,8 @@
 # Exercise Files for Learning GitHub Actions
+
 https://www.linkedin.com/learning/learning-github-actions-2
+
+
 The exercise files are located in folders named to match the chapter and lesson they accompany.
 
 - *PREREQUSITES: You'll need to have the `git` command line tool installed for your system and access to a terminal program like [GitBash](https://gitforwindows.org/) on Windows or [iTerm2](https://www.iterm2.com/) on macOS.  The default terminal program for your system will work as well as long as the git program is in your PATH.*
